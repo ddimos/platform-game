@@ -1,0 +1,17 @@
+body {
+	background-color: #dbd1ad;
+}
+
+#canvas {
+	background-color: transparent;
+	position:absolute;
+	top:10px;
+	left:100px;
+}
+
+#canvas_bg {
+	background-color: #fff;
+	position:absolute;
+	top:10px;
+	left:100px;
+}
